@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My main motivation for this blog is to force myself write down the interesting ideas and learnings that I come across. My day job is as a software engineer. Since I graduated college, I haven't worked on any meaningful side projects. For the last couple of years, I've been wanting to create a "minimal" exercise-tracking app tailored for my own workouts, but never got around to do it. Maybe I'll start now :)
