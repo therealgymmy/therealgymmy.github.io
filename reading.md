@@ -14,6 +14,8 @@ Podcasts and audiobooks are listed here as well.
 4. [Captial in the Twenty-First Century](https://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty-ebook/dp/B074DVRW88/ref=sr_1_1?crid=2UZFZB1BC39K3&dchild=1&keywords=capital+in+the+21st+century&qid=1606704879&sprefix=captial+in+the+%2Caps%2C238&sr=8-1) - Thomas Piketty
 5. [American Elections: Wicked Game](https://podcasts.apple.com/us/podcast/american-elections-wicked-game/id1481254566)
 6. [An Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) - Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze
+7. Heart of Europe - Peter Wilson
+8. [The History of Ancient Greece](https://podcasts.apple.com/us/podcast/the-history-of-ancient-greece/id1100563458) - Ryan Stitt
 
 # 2020
 1. [Trade Wars Are Class Wars](https://www.amazon.com/Trade-Wars-Are-Class-International/dp/0300244177/ref=sr_1_1?crid=21T9A9XS6UU5W&dchild=1&keywords=trade+wars+are+class+wars&qid=1606704820&sprefix=trade+wars+are+%2Caps%2C234&sr=8-1) - Matthew C. Klein, Micheal Pettis
@@ -27,6 +29,8 @@ Podcasts and audiobooks are listed here as well.
 4. The Oxford History of the French Revolution
 5. This Fight Is Our Fight - Elizabeth Warren
 6. [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=sr_1_3?crid=2XXE1HL15G8P8&dchild=1&keywords=designing+data-intensive+applications&qid=1606706309&sprefix=designing+data%2Caps%2C259&sr=8-3) - Martin Kleppmann
+7. [A History of Western Philosophy](https://www.amazon.com/History-Western-Philosophy-Bertrand-Russell/dp/0671201581/ref=sr_1_2?crid=18JHEOLLMKG8Y&dchild=1&keywords=a+history+of+western+philosophy&qid=1606706748&sprefix=a+history+of+wester+philo%2Caps%2C227&sr=8-2) - 	
+Bertrand Russell
 
 # Read in the Past (2013 - 2018)
 
