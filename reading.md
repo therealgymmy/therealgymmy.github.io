@@ -13,7 +13,7 @@ Podcasts and audiobooks are listed here as well.
 3. The Decline And Fall Of The Roman Empire - Edward Gibbon
 4. [Captial in the Twenty-First Century](https://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty-ebook/dp/B074DVRW88/ref=sr_1_1?crid=2UZFZB1BC39K3&dchild=1&keywords=capital+in+the+21st+century&qid=1606704879&sprefix=captial+in+the+%2Caps%2C238&sr=8-1) - Thomas Piketty
 5. [American Elections: Wicked Game](https://podcasts.apple.com/us/podcast/american-elections-wicked-game/id1481254566)
-6. [An Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) - Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze
+6. [An Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) - Manning, Raghavan, Schütze
 7. Heart of Europe - Peter Wilson
 8. [The History of Ancient Greece](https://podcasts.apple.com/us/podcast/the-history-of-ancient-greece/id1100563458) - Ryan Stitt
 
