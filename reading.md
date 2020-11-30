@@ -32,7 +32,7 @@ Podcasts and audiobooks are listed here as well.
 7. [A History of Western Philosophy](https://www.amazon.com/History-Western-Philosophy-Bertrand-Russell/dp/0671201581/ref=sr_1_2?crid=18JHEOLLMKG8Y&dchild=1&keywords=a+history+of+western+philosophy&qid=1606706748&sprefix=a+history+of+wester+philo%2Caps%2C227&sr=8-2) - 	
 Bertrand Russell
 
-# Read in the Past (2013 - 2018)
+# 2013 - 2018
 
 1. [The History of Rome](https://podcasts.apple.com/us/podcast/the-history-of-rome/id261654474) - Mike Duncan
 2. [The Histories](https://www.amazon.com/Histories-Oxford-Worlds-Classics/dp/0199534705/ref=sr_1_2?dchild=1&keywords=the+histories+polybius&qid=1606704528&sr=8-2) - Polybius
