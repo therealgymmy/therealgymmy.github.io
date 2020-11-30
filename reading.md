@@ -12,12 +12,14 @@ Podcasts and audiobooks are listed here as well.
 2. [Revolution](https://podcasts.apple.com/us/podcast/revolutions/id703889772) - Mike Duncan
 3. The Decline And Fall Of The Roman Empire - Edward Gibbon
 4. [Captial in the Twenty-First Century](https://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty-ebook/dp/B074DVRW88/ref=sr_1_1?crid=2UZFZB1BC39K3&dchild=1&keywords=capital+in+the+21st+century&qid=1606704879&sprefix=captial+in+the+%2Caps%2C238&sr=8-1) - Thomas Piketty
+5. [American Elections: Wicked Game](https://podcasts.apple.com/us/podcast/american-elections-wicked-game/id1481254566)
 
 # 2020
 1. [Trade Wars Are Class Wars](https://www.amazon.com/Trade-Wars-Are-Class-International/dp/0300244177/ref=sr_1_1?crid=21T9A9XS6UU5W&dchild=1&keywords=trade+wars+are+class+wars&qid=1606704820&sprefix=trade+wars+are+%2Caps%2C234&sr=8-1) - Matthew C. Klein, Micheal Pettis
 
 # 2019
 1. [The Death of Democracy](https://www.amazon.com/Death-Democracy-Hitlers-Downfall-Republic/dp/1250210860/ref=sr_1_1?dchild=1&keywords=the+death+of+democracy&qid=1606704780&sr=8-1) - Benjamin Carter Hett
+2. The Storm Before The Storm - Mike Duncan
 
 # Read in the Past
 
@@ -37,8 +39,14 @@ Podcasts and audiobooks are listed here as well.
 15. Political Order and Political Decay - Francis Fukuyama
 16. Caesar - Adrian Goldsworthy
 17. The Punic Wars - Adrian Goldsworthy
-18. SPQR - Mary Beard
+18. SPQR - Mary Beard ([My Review](https://jlujlu.wordpress.com/2016/04/25/review-spqr/))
 19. The Forum And The Tower - Mary Ann Glendon
 20. The Last Generation of the Roman Republic - Erich S. Gruen
 21. Sulla The Last Republican - Arthur Keaveney
-
+22. The Crowd in Rome in the Late Republic - Fergus Millar
+23. [Natural History: A Selection](https://www.amazon.com/Natural-History-Selection-Penguin-Classics/dp/0140444130/ref=sr_1_1?dchild=1&keywords=natural+history+pliny&qid=1606705105&sr=8-1) - Pliny The Elder
+24. Reflections on the Revolution in France - Edmund Burke
+25. [Catiline's War, The Jugurthine War, Histories](https://www.amazon.com/Catilines-Jurgurthine-Histories-Penguin-Classics/dp/0140449485/ref=sr_1_1?crid=7F2TQR0ITO08&dchild=1&keywords=sallust+catiline+s+war%2C+the+jugurthine+war%2C+histories&qid=1606705187&sprefix=sallust+cat%2Caps%2C214&sr=8-1) - Sallust
+26. [The Letters of the Younger Pliny](https://www.amazon.com/Letters-Younger-Pliny-Penguin-Classics/dp/0140441271/ref=sr_1_1?dchild=1&keywords=the+letters+of+the+younger+pliny&qid=1606705223&sr=8-1) - Pliny The Younger
+27. The Kindly Ones: A Novel - Jonathan Littell ([My Review](https://jlujlu.wordpress.com/2016/02/02/review-the-kindly-ones/))
+28. Man's Search for Meaning - Viktor E. Frankl ([My Review](https://jlujlu.wordpress.com/2016/01/18/there-is-meaning-in-sadness/))
