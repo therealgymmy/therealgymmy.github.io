@@ -16,10 +16,15 @@ Podcasts and audiobooks are listed here as well.
 
 # 2020
 1. [Trade Wars Are Class Wars](https://www.amazon.com/Trade-Wars-Are-Class-International/dp/0300244177/ref=sr_1_1?crid=21T9A9XS6UU5W&dchild=1&keywords=trade+wars+are+class+wars&qid=1606704820&sprefix=trade+wars+are+%2Caps%2C234&sr=8-1) - Matthew C. Klein, Micheal Pettis
+2. Principles for Navigating Big Debt Crises - Ray Dalio
+3. Praetorian - Guy De La Bedoyere
 
 # 2019
 1. [The Death of Democracy](https://www.amazon.com/Death-Democracy-Hitlers-Downfall-Republic/dp/1250210860/ref=sr_1_1?dchild=1&keywords=the+death+of+democracy&qid=1606704780&sr=8-1) - Benjamin Carter Hett
 2. The Storm Before The Storm - Mike Duncan
+3. The Expedition of Cyrus - Xenophon
+4. The Oxford History of the French Revolution
+5. This Fight Is Our Fight - Elizabeth Warren
 
 # Read in the Past
 
@@ -39,7 +44,7 @@ Podcasts and audiobooks are listed here as well.
 15. Political Order and Political Decay - Francis Fukuyama
 16. Caesar - Adrian Goldsworthy
 17. The Punic Wars - Adrian Goldsworthy
-18. SPQR - Mary Beard ([My Review](https://jlujlu.wordpress.com/2016/04/25/review-spqr/))
+18. SPQR - Mary Beard ([*My Review*](https://jlujlu.wordpress.com/2016/04/25/review-spqr/))
 19. The Forum And The Tower - Mary Ann Glendon
 20. The Last Generation of the Roman Republic - Erich S. Gruen
 21. Sulla The Last Republican - Arthur Keaveney
@@ -48,5 +53,8 @@ Podcasts and audiobooks are listed here as well.
 24. Reflections on the Revolution in France - Edmund Burke
 25. [Catiline's War, The Jugurthine War, Histories](https://www.amazon.com/Catilines-Jurgurthine-Histories-Penguin-Classics/dp/0140449485/ref=sr_1_1?crid=7F2TQR0ITO08&dchild=1&keywords=sallust+catiline+s+war%2C+the+jugurthine+war%2C+histories&qid=1606705187&sprefix=sallust+cat%2Caps%2C214&sr=8-1) - Sallust
 26. [The Letters of the Younger Pliny](https://www.amazon.com/Letters-Younger-Pliny-Penguin-Classics/dp/0140441271/ref=sr_1_1?dchild=1&keywords=the+letters+of+the+younger+pliny&qid=1606705223&sr=8-1) - Pliny The Younger
-27. The Kindly Ones: A Novel - Jonathan Littell ([My Review](https://jlujlu.wordpress.com/2016/02/02/review-the-kindly-ones/))
-28. Man's Search for Meaning - Viktor E. Frankl ([My Review](https://jlujlu.wordpress.com/2016/01/18/there-is-meaning-in-sadness/))
+27. The Kindly Ones: A Novel - Jonathan Littell ([*My Review*](https://jlujlu.wordpress.com/2016/02/02/review-the-kindly-ones/))
+28. Man's Search for Meaning - Viktor E. Frankl ([*My Review*](https://jlujlu.wordpress.com/2016/01/18/there-is-meaning-in-sadness/))
+29. Hard Choices - Hillary Clinton
+30. What Happened - Hillary Clinton
+31. Starting Point - Hayao Miyazaki
