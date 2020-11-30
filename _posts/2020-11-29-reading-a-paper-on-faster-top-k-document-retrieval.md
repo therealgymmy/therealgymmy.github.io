@@ -5,8 +5,6 @@ date:   2020-11-29 10:20:00 -0800
 categories: indexing paper-reading
 ---
 
-# Reading A Paper on Faster Top-k Document Retrieval
-
 Recently a friend shared a paper with me on document retrieval: [Faster Top-k Document Retrieval Using Block-Max Indexes](http://engineering.nyu.edu/~suel/papers/bmw.pdf). I wasn’t able to follow it as I wasn’t familiar with the WAND algorithm. So I went back and read that original paper on [WAND](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.365.2939&rep=rep1&type=pdf). It was quite an interesting read.
 
 WAND stands for Weighted And. It is an operator that  applies weights to each operand (either 1 or 0), sums them up, and then, evaluates to true or false depending on whether the sum is no less than a threshold. Essentially, WAND allows for representing OR or AND, or anywhere in between using a summation and a comparison to a threshold value at the end. The original explanation in the paper is as follows:
