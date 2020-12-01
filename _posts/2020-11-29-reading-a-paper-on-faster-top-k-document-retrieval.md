@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reading A Paper on Faster Top-k Document Retrieval"
+title:  "Faster Top-k Document Retrieval"
 date:   2020-11-29 10:20:00 -0800
 categories: indexing paper-reading
 ---
