@@ -16,12 +16,12 @@ Podcasts and audiobooks are listed here as well.
 6. [An Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) - Manning, Raghavan, Schütze
 7. Heart of Europe - Peter Wilson
 8. [The History of Ancient Greece](https://podcasts.apple.com/us/podcast/the-history-of-ancient-greece/id1100563458) - Ryan Stitt
-9. The Rise of Carry - Lee, Lee, Coldiron
 
 # 2020
 1. [Trade Wars Are Class Wars](https://www.amazon.com/Trade-Wars-Are-Class-International/dp/0300244177/ref=sr_1_1?crid=21T9A9XS6UU5W&dchild=1&keywords=trade+wars+are+class+wars&qid=1606704820&sprefix=trade+wars+are+%2Caps%2C234&sr=8-1) - Matthew C. Klein, Micheal Pettis
 2. Principles for Navigating Big Debt Crises - Ray Dalio
 3. Praetorian - Guy De La Bedoyere
+4. The Rise of Carry - Lee, Lee, Coldiron
 
 # 2019
 1. [The Death of Democracy](https://www.amazon.com/Death-Democracy-Hitlers-Downfall-Republic/dp/1250210860/ref=sr_1_1?dchild=1&keywords=the+death+of+democracy&qid=1606704780&sr=8-1) - Benjamin Carter Hett
