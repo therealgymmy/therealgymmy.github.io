@@ -8,20 +8,21 @@ Podcasts and audiobooks are listed here as well.
 
 # Currently Reading
 
-1. [A Promised Land](https://www.amazon.com/Promised-Land-Barack-Obama/dp/1524763160/ref=sr_1_1?dchild=1&keywords=a+promised+land&qid=1606703596&sr=8-1) - Barack Obama
-2. [Revolution](https://podcasts.apple.com/us/podcast/revolutions/id703889772) - Mike Duncan
-3. The Decline And Fall Of The Roman Empire - Edward Gibbon
-4. [Captial in the Twenty-First Century](https://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty-ebook/dp/B074DVRW88/ref=sr_1_1?crid=2UZFZB1BC39K3&dchild=1&keywords=capital+in+the+21st+century&qid=1606704879&sprefix=captial+in+the+%2Caps%2C238&sr=8-1) - Thomas Piketty
-5. [American Elections: Wicked Game](https://podcasts.apple.com/us/podcast/american-elections-wicked-game/id1481254566)
-6. [An Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) - Manning, Raghavan, Schütze
-7. Heart of Europe - Peter Wilson
-8. [The History of Ancient Greece](https://podcasts.apple.com/us/podcast/the-history-of-ancient-greece/id1100563458) - Ryan Stitt
+1. [Revolution](https://podcasts.apple.com/us/podcast/revolutions/id703889772) - Mike Duncan
+2. The Decline And Fall Of The Roman Empire - Edward Gibbon
+3. [Captial in the Twenty-First Century](https://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty-ebook/dp/B074DVRW88/ref=sr_1_1?crid=2UZFZB1BC39K3&dchild=1&keywords=capital+in+the+21st+century&qid=1606704879&sprefix=captial+in+the+%2Caps%2C238&sr=8-1) - Thomas Piketty
+4. [An Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) - Manning, Raghavan, Schütze
+5. Heart of Europe - Peter Wilson
+6. [The History of Ancient Greece](https://podcasts.apple.com/us/podcast/the-history-of-ancient-greece/id1100563458) - Ryan Stitt
+7. [The Ministry for the Future: A Novel](https://www.amazon.com/dp/B084G7XRKT/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - Kim Stanley Robinson
 
 # 2020
 1. [Trade Wars Are Class Wars](https://www.amazon.com/Trade-Wars-Are-Class-International/dp/0300244177/ref=sr_1_1?crid=21T9A9XS6UU5W&dchild=1&keywords=trade+wars+are+class+wars&qid=1606704820&sprefix=trade+wars+are+%2Caps%2C234&sr=8-1) - Matthew C. Klein, Micheal Pettis
 2. Principles for Navigating Big Debt Crises - Ray Dalio
 3. Praetorian - Guy De La Bedoyere
 4. [The Rise of Carry](https://www.amazon.com/Rise-Carry-Consequences-Volatility-Suppression-ebook/dp/B07WHV66TW/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1607305590&sr=8-1) - Lee, Lee, Coldiron
+5. [A Promised Land](https://www.amazon.com/Promised-Land-Barack-Obama/dp/1524763160/ref=sr_1_1?dchild=1&keywords=a+promised+land&qid=1606703596&sr=8-1) - Barack Obama
+6. [American Elections: Wicked Game](https://podcasts.apple.com/us/podcast/american-elections-wicked-game/id1481254566)
 
 # 2019
 1. [The Death of Democracy](https://www.amazon.com/Death-Democracy-Hitlers-Downfall-Republic/dp/1250210860/ref=sr_1_1?dchild=1&keywords=the+death+of+democracy&qid=1606704780&sr=8-1) - Benjamin Carter Hett
