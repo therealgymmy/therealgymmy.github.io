@@ -11,8 +11,7 @@ Podcasts and audiobooks are listed here as well.
 1. [Revolution](https://podcasts.apple.com/us/podcast/revolutions/id703889772) - Mike Duncan
 2. The Decline And Fall Of The Roman Empire - Edward Gibbon
 3. [An Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) - Manning, Raghavan, Schütze
-4. Heart of Europe - Peter Wilson
-5. [The History of Ancient Greece](https://podcasts.apple.com/us/podcast/the-history-of-ancient-greece/id1100563458) - Ryan Stitt
+4. [The History of Ancient Greece](https://podcasts.apple.com/us/podcast/the-history-of-ancient-greece/id1100563458) - Ryan Stitt
 
 # 2021
 1. [The Order of Time](https://www.amazon.com/Order-Time-Carlo-Rovelli/dp/0735216118/ref=sr_1_1?crid=WV3WVWGB6OCU&dchild=1&keywords=the+order+of+time&qid=1609651482&sprefix=the+order+of+time%2Caps%2C217&sr=8-1) - Carlo Rovelli
@@ -26,6 +25,7 @@ Podcasts and audiobooks are listed here as well.
 5. [A Promised Land](https://www.amazon.com/Promised-Land-Barack-Obama/dp/1524763160/ref=sr_1_1?dchild=1&keywords=a+promised+land&qid=1606703596&sr=8-1) - Barack Obama
 6. [American Elections: Wicked Game](https://podcasts.apple.com/us/podcast/american-elections-wicked-game/id1481254566)
 7. [Captial in the Twenty-First Century](https://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty-ebook/dp/B074DVRW88/ref=sr_1_1?crid=2UZFZB1BC39K3&dchild=1&keywords=capital+in+the+21st+century&qid=1606704879&sprefix=captial+in+the+%2Caps%2C238&sr=8-1) - Thomas Piketty
+8. Heart of Europe - Peter Wilson
 
 # 2019
 1. [The Death of Democracy](https://www.amazon.com/Death-Democracy-Hitlers-Downfall-Republic/dp/1250210860/ref=sr_1_1?dchild=1&keywords=the+death+of+democracy&qid=1606704780&sr=8-1) - Benjamin Carter Hett
