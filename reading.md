@@ -13,6 +13,8 @@ Podcasts and audiobooks are listed here as well.
 3. [An Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) - Manning, Raghavan, Schütze
 4. [The History of Ancient Greece](https://podcasts.apple.com/us/podcast/the-history-of-ancient-greece/id1100563458) - Ryan Stitt
 5. [India After Gandhi](https://www.amazon.com/India-After-Gandhi-Revised-Updated-ebook/dp/B07QR79QXF/ref=sr_1_1?dchild=1&keywords=india+after+gandhi&qid=1609979848&sr=8-1) - Ramachandra Guha
+6. [The Goal: A Process of Ongoing Improvement](https://www.amazon.com/Goal-Process-Ongoing-Improvement-ebook/dp/B002LHRM2O/ref=sr_1_1?crid=1P4AP2RVH82IP&dchild=1&keywords=the+goal+a+process+of+ongoing+improvement&qid=1610662882&sprefix=the+goal+%2Caps%2C363&sr=8-1) - 	
+Eliyahu M. Goldratt
 
 # 2021
 1. [The Order of Time](https://www.amazon.com/Order-Time-Carlo-Rovelli/dp/0735216118/ref=sr_1_1?crid=WV3WVWGB6OCU&dchild=1&keywords=the+order+of+time&qid=1609651482&sprefix=the+order+of+time%2Caps%2C217&sr=8-1) - Carlo Rovelli
