@@ -8,11 +8,10 @@ Podcasts and audiobooks are listed here as well.
 
 # Currently Listening
 1. [Revolution](https://podcasts.apple.com/us/podcast/revolutions/id703889772) - Mike Duncan
-2. [American Innovations](https://wondery.com/shows/american-innovations/) - Steven Johnson
 
 # Currently Reading
 1. [An Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) - Manning, Raghavan, Schütze
-2. [Exhalation: Stories](https://www.amazon.com/Exhalation-Stories-Ted-Chiang-ebook/dp/B07GD46PQZ/ref=sr_1_1?crid=13BHZSGJ9ED33&dchild=1&keywords=ted+chiang+exhalation&qid=1618709848&sprefix=ted+chiang+exha%2Caps%2C223&sr=8-1) - Ted Chiang
+
 
 
 # 2021
@@ -23,6 +22,9 @@ Eliyahu M. Goldratt
 4. [Stories of Your Life and Others](https://www.amazon.com/Stories-Your-Life-Others-Chiang-ebook/dp/B0048EKOP0/ref=sr_1_2?dchild=1&keywords=Ted+Chiang&qid=1618029771&sr=8-2) - Ted Chiang
 5. [The Code of Capital](https://www.amazon.com/Code-Capital-Creates-Wealth-Inequality/dp/0691208603/ref=sr_1_1?dchild=1&keywords=the+code+of+capital&qid=1614476573&sr=8-1) - Katharina Pistor
 6. [India After Gandhi](https://www.amazon.com/India-After-Gandhi-Revised-Updated-ebook/dp/B07QR79QXF/ref=sr_1_1?dchild=1&keywords=india+after+gandhi&qid=1609979848&sr=8-1) - Ramachandra Guha
+7. [American Innovations](https://wondery.com/shows/american-innovations/) - Steven Johnson
+8. [Exhalation: Stories](https://www.amazon.com/Exhalation-Stories-Ted-Chiang-ebook/dp/B07GD46PQZ/ref=sr_1_1?crid=13BHZSGJ9ED33&dchild=1&keywords=ted+chiang+exhalation&qid=1618709848&sprefix=ted+chiang+exha%2Caps%2C223&sr=8-1) - Ted Chiang
+9. The Mysterious Island - Jules Verne
 
 # 2020
 1. [Trade Wars Are Class Wars](https://www.amazon.com/Trade-Wars-Are-Class-International/dp/0300244177/ref=sr_1_1?crid=21T9A9XS6UU5W&dchild=1&keywords=trade+wars+are+class+wars&qid=1606704820&sprefix=trade+wars+are+%2Caps%2C234&sr=8-1) - Matthew C. Klein, Micheal Pettis
