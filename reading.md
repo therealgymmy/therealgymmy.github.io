@@ -11,6 +11,7 @@ Podcasts and audiobooks are listed here as well.
 
 # Currently Reading
 1. [An Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) - Manning, Raghavan, Schütze
+2. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) - Christoph Molnar
 
 
 
