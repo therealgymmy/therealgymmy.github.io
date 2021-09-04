@@ -12,7 +12,9 @@ Podcasts and audiobooks are listed here as well.
 # Currently Reading
 1. [An Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) - Manning, Raghavan, Schütze
 2. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) - Christoph Molnar
-
+3. [Hero of Two Worlds: The Marquis de Lafayette in the Age of Revolution](https://www.amazon.com/Hero-Two-Worlds-Lafayette-Revolution-ebook/dp/B08KQ38BS5/ref=sr_1_4?crid=IDVLMU33C4ZD&dchild=1&keywords=lafayette+hero+of+two+worlds&qid=1630718888&sprefix=lafayette+hero%2Caps%2C240&sr=8-4) - Mike Duncan
+4. [Fears of a Setting Sun: The Disillusionment of America's Founders](https://www.amazon.com/Fears-Setting-Sun-Disillusionment-Americas-ebook/dp/B08JHKC3LB/ref=sr_1_1?dchild=1&keywords=fears+of+a+setting+sun&qid=1630718965&sr=8-1) - Dennis C. Rasmussen
+5. [Greece and Rome at War](https://www.amazon.com/Greece-Rome-War-Peter-Connolly-ebook/dp/B00HESTAAW/ref=sr_1_1?dchild=1&keywords=greece+and+rome+at+war&qid=1630719015&sr=8-1) - Peter Connolly
 
 
 # 2021
