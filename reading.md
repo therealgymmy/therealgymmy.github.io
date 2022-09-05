@@ -7,15 +7,15 @@ permalink: /reading/
 Podcasts and audiobooks are listed here as well.
 
 # Currently Listening
-1. [Revolution](https://podcasts.apple.com/us/podcast/revolutions/id703889772) - Mike Duncan
+1. [The Age of Napoleon](https://podcasts.apple.com/us/podcast/the-age-of-napoleon-podcast/id1223795973) - Everett Rummage
+2. [The History of Byzantium](https://thehistoryofbyzantium.com) - Robin Pierson
 
 # Currently Reading
-1. [An Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) - Manning, Raghavan, Schütze
-2. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) - Christoph Molnar
-3. [Hero of Two Worlds: The Marquis de Lafayette in the Age of Revolution](https://www.amazon.com/Hero-Two-Worlds-Lafayette-Revolution-ebook/dp/B08KQ38BS5/ref=sr_1_4?crid=IDVLMU33C4ZD&dchild=1&keywords=lafayette+hero+of+two+worlds&qid=1630718888&sprefix=lafayette+hero%2Caps%2C240&sr=8-4) - Mike Duncan
-4. [Fears of a Setting Sun: The Disillusionment of America's Founders](https://www.amazon.com/Fears-Setting-Sun-Disillusionment-Americas-ebook/dp/B08JHKC3LB/ref=sr_1_1?dchild=1&keywords=fears+of+a+setting+sun&qid=1630718965&sr=8-1) - Dennis C. Rasmussen
-5. [Greece and Rome at War](https://www.amazon.com/Greece-Rome-War-Peter-Connolly-ebook/dp/B00HESTAAW/ref=sr_1_1?dchild=1&keywords=greece+and+rome+at+war&qid=1630719015&sr=8-1) - Peter Connolly
+1. (re-reading) [The Order of Time](https://www.amazon.com/Order-Time-Carlo-Rovelli/dp/0735216118/ref=sr_1_1?crid=WV3WVWGB6OCU&dchild=1&keywords=the+order+of+time&qid=1609651482&sprefix=the+order+of+time%2Caps%2C217&sr=8-1) - Carlo Rovelli
 
+# 2022
+1. [Hero of Two Worlds: The Marquis de Lafayette in the Age of Revolution](https://www.amazon.com/Hero-Two-Worlds-Lafayette-Revolution-ebook/dp/B08KQ38BS5/ref=sr_1_4?crid=IDVLMU33C4ZD&dchild=1&keywords=lafayette+hero+of+two+worlds&qid=1630718888&sprefix=lafayette+hero%2Caps%2C240&sr=8-4) - Mike Duncan
+2. [Revolution](https://podcasts.apple.com/us/podcast/revolutions/id703889772) - Mike Duncan
 
 # 2021
 1. [The Order of Time](https://www.amazon.com/Order-Time-Carlo-Rovelli/dp/0735216118/ref=sr_1_1?crid=WV3WVWGB6OCU&dchild=1&keywords=the+order+of+time&qid=1609651482&sprefix=the+order+of+time%2Caps%2C217&sr=8-1) - Carlo Rovelli
@@ -28,6 +28,10 @@ Eliyahu M. Goldratt
 7. [American Innovations](https://wondery.com/shows/american-innovations/) - Steven Johnson
 8. [Exhalation: Stories](https://www.amazon.com/Exhalation-Stories-Ted-Chiang-ebook/dp/B07GD46PQZ/ref=sr_1_1?crid=13BHZSGJ9ED33&dchild=1&keywords=ted+chiang+exhalation&qid=1618709848&sprefix=ted+chiang+exha%2Caps%2C223&sr=8-1) - Ted Chiang
 9. The Mysterious Island - Jules Verne
+10. (abandoned) [Fears of a Setting Sun: The Disillusionment of America's Founders](https://www.amazon.com/Fears-Setting-Sun-Disillusionment-Americas-ebook/dp/B08JHKC3LB/ref=sr_1_1?dchild=1&keywords=fears+of+a+setting+sun&qid=1630718965&sr=8-1) - Dennis C. Rasmussen
+11. (abandoned) [Greece and Rome at War](https://www.amazon.com/Greece-Rome-War-Peter-Connolly-ebook/dp/B00HESTAAW/ref=sr_1_1?dchild=1&keywords=greece+and+rome+at+war&qid=1630719015&sr=8-1) - Peter Connolly
+12. (abandoned) [An Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) - Manning, Raghavan, Schütze
+13. (abandoned) [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) - Christoph Molnar
 
 # 2020
 1. [Trade Wars Are Class Wars](https://www.amazon.com/Trade-Wars-Are-Class-International/dp/0300244177/ref=sr_1_1?crid=21T9A9XS6UU5W&dchild=1&keywords=trade+wars+are+class+wars&qid=1606704820&sprefix=trade+wars+are+%2Caps%2C234&sr=8-1) - Matthew C. Klein, Micheal Pettis
