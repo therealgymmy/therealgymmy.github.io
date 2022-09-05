@@ -12,13 +12,21 @@ Podcasts and audiobooks are listed here as well.
 
 # Currently Reading
 1. (re-reading) [The Order of Time](https://www.amazon.com/Order-Time-Carlo-Rovelli/dp/0735216118/ref=sr_1_1?crid=WV3WVWGB6OCU&dchild=1&keywords=the+order+of+time&qid=1609651482&sprefix=the+order+of+time%2Caps%2C217&sr=8-1) - Carlo Rovelli
+2. [Fundamentals of Software Architecture](https://www.amazon.com/Fundamentals-Software-Architecture-Engineering-Approach-ebook/dp/B0849MPK73/ref=sr_1_1?keywords=fundamentals+of+software+architecture&qid=1662353909&s=digital-text&sprefix=fundamentals+of+sfotware%2Cdigital-text%2C139&sr=1-1) - Mark Richards, Neal Ford
 
 # 2022
 1. [Hero of Two Worlds: The Marquis de Lafayette in the Age of Revolution](https://www.amazon.com/Hero-Two-Worlds-Lafayette-Revolution-ebook/dp/B08KQ38BS5/ref=sr_1_4?crid=IDVLMU33C4ZD&dchild=1&keywords=lafayette+hero+of+two+worlds&qid=1630718888&sprefix=lafayette+hero%2Caps%2C240&sr=8-4) - Mike Duncan
 2. [Revolution](https://podcasts.apple.com/us/podcast/revolutions/id703889772) - Mike Duncan
 3. (re-read) [Exhalation: Stories](https://www.amazon.com/Exhalation-Stories-Ted-Chiang-ebook/dp/B07GD46PQZ/ref=sr_1_1?crid=13BHZSGJ9ED33&dchild=1&keywords=ted+chiang+exhalation&qid=1618709848&sprefix=ted+chiang+exha%2Caps%2C223&sr=8-1) - Ted Chiang
 4. [The Expectatnt Father](https://www.amazon.com/Expectant-Father-Ultimate-Dads-Be/dp/0789212137) - Armin A. Brott
-5. [白话史记](https://www.amazon.com/（蓝皮）国学-白话史记-国学典藏书系-Chinese-司马迁-ebook/dp/B0769H3VNS/ref=sr_1_2?crid=2YWV4H74N0BMV&keywords=白话史记&qid=1662353347&sprefix=白话史记%2Caps%2C192&sr=8-2) - 司马迁 (Author), 《国学典藏书系》丛书编委会 (Editor
+5. [白话史记](https://www.amazon.com/（蓝皮）国学-白话史记-国学典藏书系-Chinese-司马迁-ebook/dp/B0769H3VNS/ref=sr_1_2?crid=2YWV4H74N0BMV&keywords=白话史记&qid=1662353347&sprefix=白话史记%2Caps%2C192&sr=8-2) - 司马迁 (Author), 《国学典藏书系》丛书编委会 (Editor)
+6. [Foundation](https://www.amazon.com/Foundation-Isaac-Asimov-ebook/dp/B000FC1PWA/ref=sr_1_1?crid=2RKKA3BSJDIS0&keywords=foundation&qid=1662353468&s=books&sprefix=foundation%2Cstripbooks%2C170&sr=1-1) - Isaac Asimov
+7. [Foundation and Empire](https://www.amazon.com/gp/product/B000FC1PWK?notRedirectToSDP=1&ref_=dbs_mng_calw_1&storeType=ebooks) - Isaac Asimov
+8. [Second Foundation](https://www.amazon.com/gp/product/B000FC1PWU?notRedirectToSDP=1&ref_=dbs_mng_calw_2&storeType=ebooks) - Isaac Asimov
+9. [Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail](https://www.amazon.com/Changing-World-Order-Nations-Succeed-ebook/dp/B0881Y73YG/ref=sr_1_1?crid=W0XWC2MB0F9N&keywords=changing+world+order+by+ray+dalio&qid=1662353728&s=digital-text&sprefix=changing+world+order+by+ray+dalio%2Cdigital-text%2C117&sr=1-1) - Ray Dalio
+10. [Dune](https://www.amazon.com/Dune-Frank-Herbert-ebook/dp/B00B7NPRY8/ref=sr_1_1?crid=JAEP6PIQYDS8&keywords=dune&qid=1662353755&s=digital-text&sprefix=dun%2Cdigital-text%2C127&sr=1-1) - Frank Herbert
+11. [Dune Messiah](https://www.amazon.com/gp/product/B0011UGNDG?notRedirectToSDP=1&ref_=dbs_mng_calw_1&storeType=ebooks) - Frank Herbert
+12. (re-read) Man's Search for Meaning - Viktor E. Frankl
 
 # 2021
 1. [The Order of Time](https://www.amazon.com/Order-Time-Carlo-Rovelli/dp/0735216118/ref=sr_1_1?crid=WV3WVWGB6OCU&dchild=1&keywords=the+order+of+time&qid=1609651482&sprefix=the+order+of+time%2Caps%2C217&sr=8-1) - Carlo Rovelli
