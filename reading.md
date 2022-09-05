@@ -9,13 +9,13 @@ Podcasts and audiobooks are listed here as well.
 # Currently Listening
 1. [The Age of Napoleon](https://podcasts.apple.com/us/podcast/the-age-of-napoleon-podcast/id1223795973) - Everett Rummage
 2. [The History of Byzantium](https://thehistoryofbyzantium.com) - Robin Pierson
-3. [Fire & Blood](https://www.amazon.com/Fire-Blood-Thrones-Targaryen-History-ebook/dp/B07C6TBTV3/ref=sr_1_1?crid=1QVJ02FYGLUM5&keywords=fire+and+blood&qid=1662353987&s=digital-text&sprefix=fire+and+blood%2Cdigital-text%2C137&sr=1-1) - George R. R. Martin
-4. [The Montessori Baby](https://www.amazon.com/Montessori-Baby-Parents-Nurturing-Understanding-ebook/dp/B08GG24S89/ref=sr_1_1?crid=1J702UWUGK961&keywords=the+montessori+baby&qid=1662354034&s=digital-text&sprefix=the+montessori+baby%2Cdigital-text%2C138&sr=1-1) - Simone Davies, Junnifa Uzodike
-5. [The Last Empire: The Final Days of the Soviet Union](https://www.amazon.com/Last-Empire-Final-Soviet-Union-ebook/dp/B016TX4EK8/ref=sr_1_1?crid=1RD4H3QEO3FZZ&keywords=the+last+empire&qid=1662354081&s=digital-text&sprefix=the+last+empir%2Cdigital-text%2C157&sr=1-1) - Serhii Plokhy
 
 # Currently Reading
 1. (re-reading) [The Order of Time](https://www.amazon.com/Order-Time-Carlo-Rovelli/dp/0735216118/ref=sr_1_1?crid=WV3WVWGB6OCU&dchild=1&keywords=the+order+of+time&qid=1609651482&sprefix=the+order+of+time%2Caps%2C217&sr=8-1) - Carlo Rovelli
 2. [Fundamentals of Software Architecture](https://www.amazon.com/Fundamentals-Software-Architecture-Engineering-Approach-ebook/dp/B0849MPK73/ref=sr_1_1?keywords=fundamentals+of+software+architecture&qid=1662353909&s=digital-text&sprefix=fundamentals+of+sfotware%2Cdigital-text%2C139&sr=1-1) - Mark Richards, Neal Ford
+3. [Fire & Blood](https://www.amazon.com/Fire-Blood-Thrones-Targaryen-History-ebook/dp/B07C6TBTV3/ref=sr_1_1?crid=1QVJ02FYGLUM5&keywords=fire+and+blood&qid=1662353987&s=digital-text&sprefix=fire+and+blood%2Cdigital-text%2C137&sr=1-1) - George R. R. Martin
+4. [The Montessori Baby](https://www.amazon.com/Montessori-Baby-Parents-Nurturing-Understanding-ebook/dp/B08GG24S89/ref=sr_1_1?crid=1J702UWUGK961&keywords=the+montessori+baby&qid=1662354034&s=digital-text&sprefix=the+montessori+baby%2Cdigital-text%2C138&sr=1-1) - Simone Davies, Junnifa Uzodike
+5. [The Last Empire: The Final Days of the Soviet Union](https://www.amazon.com/Last-Empire-Final-Soviet-Union-ebook/dp/B016TX4EK8/ref=sr_1_1?crid=1RD4H3QEO3FZZ&keywords=the+last+empire&qid=1662354081&s=digital-text&sprefix=the+last+empir%2Cdigital-text%2C157&sr=1-1) - Serhii Plokhy
 
 # 2022
 1. [Hero of Two Worlds: The Marquis de Lafayette in the Age of Revolution](https://www.amazon.com/Hero-Two-Worlds-Lafayette-Revolution-ebook/dp/B08KQ38BS5/ref=sr_1_4?crid=IDVLMU33C4ZD&dchild=1&keywords=lafayette+hero+of+two+worlds&qid=1630718888&sprefix=lafayette+hero%2Caps%2C240&sr=8-4) - Mike Duncan
