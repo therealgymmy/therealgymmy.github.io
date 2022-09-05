@@ -9,6 +9,9 @@ Podcasts and audiobooks are listed here as well.
 # Currently Listening
 1. [The Age of Napoleon](https://podcasts.apple.com/us/podcast/the-age-of-napoleon-podcast/id1223795973) - Everett Rummage
 2. [The History of Byzantium](https://thehistoryofbyzantium.com) - Robin Pierson
+3. [Fire & Blood](https://www.amazon.com/Fire-Blood-Thrones-Targaryen-History-ebook/dp/B07C6TBTV3/ref=sr_1_1?crid=1QVJ02FYGLUM5&keywords=fire+and+blood&qid=1662353987&s=digital-text&sprefix=fire+and+blood%2Cdigital-text%2C137&sr=1-1) - George R. R. Martin
+4. [The Montessori Baby](https://www.amazon.com/Montessori-Baby-Parents-Nurturing-Understanding-ebook/dp/B08GG24S89/ref=sr_1_1?crid=1J702UWUGK961&keywords=the+montessori+baby&qid=1662354034&s=digital-text&sprefix=the+montessori+baby%2Cdigital-text%2C138&sr=1-1) - Simone Davies, Junnifa Uzodike
+5. [The Last Empire: The Final Days of the Soviet Union](https://www.amazon.com/Last-Empire-Final-Soviet-Union-ebook/dp/B016TX4EK8/ref=sr_1_1?crid=1RD4H3QEO3FZZ&keywords=the+last+empire&qid=1662354081&s=digital-text&sprefix=the+last+empir%2Cdigital-text%2C157&sr=1-1) - Serhii Plokhy
 
 # Currently Reading
 1. (re-reading) [The Order of Time](https://www.amazon.com/Order-Time-Carlo-Rovelli/dp/0735216118/ref=sr_1_1?crid=WV3WVWGB6OCU&dchild=1&keywords=the+order+of+time&qid=1609651482&sprefix=the+order+of+time%2Caps%2C217&sr=8-1) - Carlo Rovelli
@@ -27,6 +30,7 @@ Podcasts and audiobooks are listed here as well.
 10. [Dune](https://www.amazon.com/Dune-Frank-Herbert-ebook/dp/B00B7NPRY8/ref=sr_1_1?crid=JAEP6PIQYDS8&keywords=dune&qid=1662353755&s=digital-text&sprefix=dun%2Cdigital-text%2C127&sr=1-1) - Frank Herbert
 11. [Dune Messiah](https://www.amazon.com/gp/product/B0011UGNDG?notRedirectToSDP=1&ref_=dbs_mng_calw_1&storeType=ebooks) - Frank Herbert
 12. (re-read) Man's Search for Meaning - Viktor E. Frankl
+13. [One Billion Americans](https://www.amazon.com/One-Billion-Americans-Thinking-Bigger-ebook/dp/B082ZR6827/ref=sr_1_1?crid=1O4U3TCW21WO6&keywords=one+billion+americans&qid=1662354147&s=digital-text&sprefix=one+billion+americans%2Cdigital-text%2C135&sr=1-1) - Matthew Yglesias
 
 # 2021
 1. [The Order of Time](https://www.amazon.com/Order-Time-Carlo-Rovelli/dp/0735216118/ref=sr_1_1?crid=WV3WVWGB6OCU&dchild=1&keywords=the+order+of+time&qid=1609651482&sprefix=the+order+of+time%2Caps%2C217&sr=8-1) - Carlo Rovelli
