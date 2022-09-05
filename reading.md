@@ -16,6 +16,9 @@ Podcasts and audiobooks are listed here as well.
 # 2022
 1. [Hero of Two Worlds: The Marquis de Lafayette in the Age of Revolution](https://www.amazon.com/Hero-Two-Worlds-Lafayette-Revolution-ebook/dp/B08KQ38BS5/ref=sr_1_4?crid=IDVLMU33C4ZD&dchild=1&keywords=lafayette+hero+of+two+worlds&qid=1630718888&sprefix=lafayette+hero%2Caps%2C240&sr=8-4) - Mike Duncan
 2. [Revolution](https://podcasts.apple.com/us/podcast/revolutions/id703889772) - Mike Duncan
+3. (re-read) [Exhalation: Stories](https://www.amazon.com/Exhalation-Stories-Ted-Chiang-ebook/dp/B07GD46PQZ/ref=sr_1_1?crid=13BHZSGJ9ED33&dchild=1&keywords=ted+chiang+exhalation&qid=1618709848&sprefix=ted+chiang+exha%2Caps%2C223&sr=8-1) - Ted Chiang
+4. [The Expectatnt Father](https://www.amazon.com/Expectant-Father-Ultimate-Dads-Be/dp/0789212137) - Armin A. Brott
+5. [白话史记](https://www.amazon.com/（蓝皮）国学-白话史记-国学典藏书系-Chinese-司马迁-ebook/dp/B0769H3VNS/ref=sr_1_2?crid=2YWV4H74N0BMV&keywords=白话史记&qid=1662353347&sprefix=白话史记%2Caps%2C192&sr=8-2) - 司马迁 (Author), 《国学典藏书系》丛书编委会 (Editor
 
 # 2021
 1. [The Order of Time](https://www.amazon.com/Order-Time-Carlo-Rovelli/dp/0735216118/ref=sr_1_1?crid=WV3WVWGB6OCU&dchild=1&keywords=the+order+of+time&qid=1609651482&sprefix=the+order+of+time%2Caps%2C217&sr=8-1) - Carlo Rovelli
