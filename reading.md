@@ -4,8 +4,6 @@ title: Reading List
 permalink: /reading/
 ---
 
-Podcasts and audiobooks are listed here as well.
-
 # Currently Listening
 1. [The Age of Napoleon](https://podcasts.apple.com/us/podcast/the-age-of-napoleon-podcast/id1223795973) - Everett Rummage
 2. [The History of Byzantium](https://thehistoryofbyzantium.com) - Robin Pierson
